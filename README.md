@@ -7,5 +7,5 @@
 # usage
   
 ```
-python3 wintheme.py <1 or 0>
+python3 wintheme.py <1 (dark) or 0 (light)>
 ```
