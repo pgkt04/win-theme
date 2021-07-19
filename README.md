@@ -1,5 +1,6 @@
 # win-theme
  Change your windows theme from light to dark easily!  
+ Did I mention you don't even need to activate windows?  
  Fully supports chrome and firefox too.
  
 # requirements
