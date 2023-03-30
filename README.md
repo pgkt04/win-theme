@@ -1,6 +1,5 @@
 # win-theme
- Change your windows theme from light to dark easily!  
- Did I mention you don't even need to activate windows?  
+ Change your windows theme from light to dark easily without windows activation
  
 # requirements
  Only python3 required.
